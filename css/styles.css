@@ -19,8 +19,9 @@ body {
 header {
   background-color: #ff3131;
   color: #fefefe;
-  padding: 1em;
+  padding: 10px;
   text-align: center;
+  margin-bottom: 3%;
 }
 
 header nav ul {
